@@ -12,7 +12,7 @@ versions:
 topics:
   - Accounts
   - Notifications
-shortTitle: Primary email address
+shortTitle: AaronHarper0509@gmail.com
 ---
 {% note %}
 
